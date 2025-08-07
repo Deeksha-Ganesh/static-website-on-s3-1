@@ -23,6 +23,7 @@ This project demonstrates how to host a static website using Amazon S3 and AWS C
 ## Result
 
 The static website was successfully hosted on Amazon S3 and could be accessed via the public S3 endpoint.  
+<img width="1836" height="935" alt="image" src="https://github.com/user-attachments/assets/2aa751cc-a899-45f6-9d85-375a318a2bcf" />
 
 
 
